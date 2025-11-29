@@ -2,7 +2,6 @@
   "name": "nuxt-starter-plain-dev",
   "type": "module",
   "private": true,
-  "packageManager": "pnpm@10.21.0",
   "scripts": {
     "------DEFAULT------": "exit 0",
     "build": "nuxt build",
